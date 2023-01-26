@@ -4761,11 +4761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
       "projectName": "Problem04.SinglyLinkedList.Tests",
-      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
+      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
       "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\SinglyLinkedList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4782,8 +4782,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
-              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
             }
           }
         }

@@ -3,6 +3,7 @@
     using System;
     using System.Collections;
     using System.Collections.Generic;
+    using System.Reflection;
 
     public class List<T> : IAbstractList<T>
     {
@@ -15,51 +16,135 @@
 
         public List(int capacity)
         {
-            throw new NotImplementedException();
+            if (capacity < 0)
+            {
+                throw new NotImplementedException("Invalid capacity");
+            }
+
+            this.items = new T[capacity];
         }
 
-        public T this[int index] { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public T this[int index]
+        {
+            get 
+            {
+                ValidateIndex(index);
+                return items[index];
+            }
+            set
+            {
+                ValidateIndex(index);
+                items[index] = value;
+            }
+        }
 
         public int Count { get; private set; }
 
         public void Add(T item)
         {
-            throw new NotImplementedException();
+            this.Grow();
+            this.items[Count++] = item;
         }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerator<T> GetEnumerator()
-        {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                if (this.items[i].Equals(item))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public int IndexOf(T item)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                if (this.items[i].Equals(item))
+                {
+                    return i;
+                }
+            }
+            return -1;
         }
 
         public void Insert(int index, T item)
         {
-            throw new NotImplementedException();
+            ValidateIndex(index);
+            Grow();
+
+            for (int i = this.Count; i > index; i--)
+            {
+                this.items[i] = this.items[i-1];
+            }
+
+            this.items[index] = item;
+            this.Count++;
         }
 
         public bool Remove(T item)
         {
-            throw new NotImplementedException();
+            int index = IndexOf(item);
+
+            if (index == -1)
+            {
+                return false;
+            }
+            else
+            {
+                RemoveAt(index);
+                return true;
+            }
+
         }
 
         public void RemoveAt(int index)
         {
-            throw new NotImplementedException();
+            ValidateIndex(index);
+
+            for (int i = index; i < this.Count - 1; i++)
+            {
+                this.items[i] = this.items[i + 1];
+            }
+
+            this.items[this.Count - 1] = default;
+            this.Count--;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < this.Count; i++)
+            {
+                yield return this.items[i];
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
+        => this.GetEnumerator();
+
+        private void Grow()
         {
-            throw new NotImplementedException();
+            if (this.items.Length == this.Count)
+            {
+                T[] itemsCopy = new T[this.items.Length * 2];
+
+                for (int i = 0; i < this.items.Length; i++)
+                {
+                    itemsCopy[i] = this.items[i];
+                }
+
+                this.items = itemsCopy;
+            }
+        }
+
+        private void ValidateIndex(int index)
+        {
+            if (index < 0 || index >= this.Count)
+            {
+                throw new IndexOutOfRangeException();
+            }
         }
     }
 }

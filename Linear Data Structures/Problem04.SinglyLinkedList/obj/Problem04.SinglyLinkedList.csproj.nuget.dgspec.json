@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {}
+    "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+    "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
         "projectName": "Problem04.SinglyLinkedList",
-        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
         "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\obj\\",
+        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",

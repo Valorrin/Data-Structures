@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhYpkv8CYv4Z16PZ6Exk5913Jd38S81bNizXDeqFNKzHtSYHFvP+YPQOTSceDpqMEpp5zqBe7CxeKdUOIMI8/w==",
+  "dgSpecHash": "a2Ug3UrpZJIFP+RfbQhc7TQ0BL7k9LDu5RSWNLyxxWNn0Za8V+YwIDq03Nvu9ogotRQMXrthKXHmc8Y2YIFdfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kholi\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\kholi\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

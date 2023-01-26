@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Q4TQ9y/m5vpgrIa4svkeGxwK06yz1na0JAR9Tscwb23uapPj8x2+v5UGztO4IK17Q56GzYQNdmhD/6gHMeiWQ==",
+  "dgSpecHash": "BfdcnD/VLXHIKWdlVmh8QUR5qsqS7Orb97ZE2gDWvAeQU/f400I32t3gEu0uPQK5yQninNFMWXnHTo7EE+e4Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+  "projectFilePath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem02.Stack\\Problem02.Stack.csproj",
       "projectName": "Problem02.Stack",
-      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem02.Stack\\Problem02.Stack.csproj",
       "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\obj\\",
+      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem02.Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",

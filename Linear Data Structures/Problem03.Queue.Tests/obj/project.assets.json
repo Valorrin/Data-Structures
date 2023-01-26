@@ -4761,11 +4761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue.Tests\\Problem03.Queue.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue.Tests\\Problem03.Queue.Tests.csproj",
       "projectName": "Problem03.Queue.Tests",
-      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue.Tests\\Problem03.Queue.Tests.csproj",
+      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue.Tests\\Problem03.Queue.Tests.csproj",
       "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue.Tests\\obj\\",
+      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4782,8 +4782,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {
-              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj"
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue\\Problem03.Queue.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue\\Problem03.Queue.csproj"
             }
           }
         }

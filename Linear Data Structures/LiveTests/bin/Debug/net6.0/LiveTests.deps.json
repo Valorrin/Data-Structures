@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LiveTests/1.0.0": {
+        "dependencies": {
+          "Problem01.List": "1.0.0",
+          "Problem02.Stack": "1.0.0",
+          "Problem03.Queue": "1.0.0",
+          "Problem04.SinglyLinkedList": "1.0.0"
+        },
+        "runtime": {
+          "LiveTests.dll": {}
+        }
+      },
+      "Problem01.List/1.0.0": {
+        "runtime": {
+          "Problem01.List.dll": {}
+        }
+      },
+      "Problem02.Stack/1.0.0": {
+        "runtime": {
+          "Problem02.Stack.dll": {}
+        }
+      },
+      "Problem03.Queue/1.0.0": {
+        "runtime": {
+          "Problem03.Queue.dll": {}
+        }
+      },
+      "Problem04.SinglyLinkedList/1.0.0": {
+        "runtime": {
+          "Problem04.SinglyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem01.List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem02.Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem03.Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem04.SinglyLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

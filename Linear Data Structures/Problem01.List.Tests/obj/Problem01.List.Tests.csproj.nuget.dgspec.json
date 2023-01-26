@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\Problem01.List.Tests.csproj": {}
+    "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\Problem01.List.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\Problem01.List.Tests.csproj": {
+    "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\Problem01.List.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
         "projectName": "Problem01.List.Tests",
-        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
+        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\Problem01.List.Tests.csproj",
         "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List.Tests\\obj\\",
+        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj": {
-                "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj"
+              "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj": {
+                "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj": {
+    "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+        "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj",
         "projectName": "Problem01.List",
-        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+        "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj",
         "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data Structures\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\obj\\",
+        "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",

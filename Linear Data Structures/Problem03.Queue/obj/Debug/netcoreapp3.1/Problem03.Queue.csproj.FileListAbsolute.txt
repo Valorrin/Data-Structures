@@ -18,3 +18,13 @@
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/02.Linear-Data-Structures/02. Data-Structures-Linear-Data-Structures-Lab-Skeleton/Problem03.Queue/obj/Debug/netcoreapp3.1/Problem03.Queue.csproj.CoreCompileInputs.cache
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/02.Linear-Data-Structures/02. Data-Structures-Linear-Data-Structures-Lab-Skeleton/Problem03.Queue/obj/Debug/netcoreapp3.1/Problem03.Queue.dll
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/02.Linear-Data-Structures/02. Data-Structures-Linear-Data-Structures-Lab-Skeleton/Problem03.Queue/obj/Debug/netcoreapp3.1/Problem03.Queue.pdb
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.deps.json
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.dll
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.pdb
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csproj.AssemblyReference.cache
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfoInputs.cache
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfo.cs
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csproj.CoreCompileInputs.cache
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.dll
+C:\Users\kholi\source\repos\Data-Structures\Linear Data Structures\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.pdb

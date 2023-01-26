@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Problem01.List/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Problem01.List.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem01.List.dll": {}
+        }
+      },
+      "Problem02.Stack/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Problem02.Stack.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem02.Stack.dll": {}
+        }
+      },
+      "Problem03.Queue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Problem03.Queue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem03.Queue.dll": {}
+        }
+      },
+      "Problem04.SinglyLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Problem04.SinglyLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem04.SinglyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem01.List/1.0.0": {
+      "type": "project",
+      "path": "../Problem01.List/Problem01.List.csproj",
+      "msbuildProject": "../Problem01.List/Problem01.List.csproj"
+    },
+    "Problem02.Stack/1.0.0": {
+      "type": "project",
+      "path": "../Problem02.Stack/Problem02.Stack.csproj",
+      "msbuildProject": "../Problem02.Stack/Problem02.Stack.csproj"
+    },
+    "Problem03.Queue/1.0.0": {
+      "type": "project",
+      "path": "../Problem03.Queue/Problem03.Queue.csproj",
+      "msbuildProject": "../Problem03.Queue/Problem03.Queue.csproj"
+    },
+    "Problem04.SinglyLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../Problem04.SinglyLinkedList/Problem04.SinglyLinkedList.csproj",
+      "msbuildProject": "../Problem04.SinglyLinkedList/Problem04.SinglyLinkedList.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Problem01.List >= 1.0.0",
+      "Problem02.Stack >= 1.0.0",
+      "Problem03.Queue >= 1.0.0",
+      "Problem04.SinglyLinkedList >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kholi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\LiveTests\\LiveTests.csproj",
+      "projectName": "LiveTests",
+      "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\LiveTests\\LiveTests.csproj",
+      "packagesPath": "C:\\Users\\kholi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\LiveTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kholi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem01.List\\Problem01.List.csproj"
+            },
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem02.Stack\\Problem02.Stack.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem02.Stack\\Problem02.Stack.csproj"
+            },
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue\\Problem03.Queue.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem03.Queue\\Problem03.Queue.csproj"
+            },
+            "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+              "projectPath": "C:\\Users\\kholi\\source\\repos\\Data-Structures\\Linear Data Structures\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
