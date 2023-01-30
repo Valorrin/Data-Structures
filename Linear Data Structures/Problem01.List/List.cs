@@ -143,7 +143,7 @@
         {
             if (index < 0 || index >= this.Count)
             {
-                throw new IndexOutOfRangeException();
+                throw new IndexOutOfRangeException(nameof(index));
             }
         }
     }
