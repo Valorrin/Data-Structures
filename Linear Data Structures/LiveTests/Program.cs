@@ -1,5 +1,6 @@
 ﻿using System;
 using Problem01.List;
+using Problem04.SinglyLinkedList;
 
 namespace LiveTests
 {
@@ -7,12 +8,19 @@ namespace LiveTests
     {
         static void Main(string[] args)
         {
-            var list = new Problem01.List.List<int>();
-            list.Add(5);
-            foreach (var item in list)
+            var list = new SinglyLinkedList<int>();
+           // list.AddFirst(5);
+
+            Console.WriteLine(list.GetFirst());
+            Console.WriteLine(list.GetLast());
+
+            if (Equals(5, list.GetFirst()))
             {
-                Console.WriteLine(item);
+                Console.WriteLine("Yess");
             }
+            
+
+
         }
     }
 }
